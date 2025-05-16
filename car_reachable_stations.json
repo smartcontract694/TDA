@@ -1,0 +1,162 @@
+[
+    {
+        "car_id": 1,
+        "reachable_stations_count": 40
+    },
+    {
+        "car_id": 2,
+        "reachable_stations_count": 39
+    },
+    {
+        "car_id": 3,
+        "reachable_stations_count": 30
+    },
+    {
+        "car_id": 4,
+        "reachable_stations_count": 43
+    },
+    {
+        "car_id": 5,
+        "reachable_stations_count": 42
+    },
+    {
+        "car_id": 6,
+        "reachable_stations_count": 40
+    },
+    {
+        "car_id": 7,
+        "reachable_stations_count": 41
+    },
+    {
+        "car_id": 8,
+        "reachable_stations_count": 4
+    },
+    {
+        "car_id": 9,
+        "reachable_stations_count": 45
+    },
+    {
+        "car_id": 10,
+        "reachable_stations_count": 5
+    },
+    {
+        "car_id": 11,
+        "reachable_stations_count": 45
+    },
+    {
+        "car_id": 12,
+        "reachable_stations_count": 46
+    },
+    {
+        "car_id": 13,
+        "reachable_stations_count": 15
+    },
+    {
+        "car_id": 14,
+        "reachable_stations_count": 47
+    },
+    {
+        "car_id": 15,
+        "reachable_stations_count": 40
+    },
+    {
+        "car_id": 16,
+        "reachable_stations_count": 42
+    },
+    {
+        "car_id": 17,
+        "reachable_stations_count": 41
+    },
+    {
+        "car_id": 18,
+        "reachable_stations_count": 39
+    },
+    {
+        "car_id": 19,
+        "reachable_stations_count": 42
+    },
+    {
+        "car_id": 20,
+        "reachable_stations_count": 28
+    },
+    {
+        "car_id": 21,
+        "reachable_stations_count": 1
+    },
+    {
+        "car_id": 22,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 23,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 24,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 25,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 26,
+        "reachable_stations_count": 3
+    },
+    {
+        "car_id": 27,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 28,
+        "reachable_stations_count": 1
+    },
+    {
+        "car_id": 29,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 30,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 31,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 32,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 33,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 34,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 35,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 36,
+        "reachable_stations_count": 40
+    },
+    {
+        "car_id": 37,
+        "reachable_stations_count": 1
+    },
+    {
+        "car_id": 38,
+        "reachable_stations_count": 3
+    },
+    {
+        "car_id": 39,
+        "reachable_stations_count": 0
+    },
+    {
+        "car_id": 40,
+        "reachable_stations_count": 0
+    }
+]

@@ -1,0 +1,974 @@
+[
+    {
+        "station_id": 1,
+        "latitude": 29.7764065,
+        "longitude": -95.4342784,
+        "available_batteries": 83
+    },
+    {
+        "station_id": 2,
+        "latitude": 29.7764001,
+        "longitude": -95.4342999,
+        "available_batteries": 87
+    },
+    {
+        "station_id": 3,
+        "latitude": 29.7763942,
+        "longitude": -95.4343194,
+        "available_batteries": 69
+    },
+    {
+        "station_id": 5,
+        "latitude": 30.2717778,
+        "longitude": -97.7139585,
+        "available_batteries": 78
+    },
+    {
+        "station_id": 6,
+        "latitude": 33.2390523,
+        "longitude": -97.1553139,
+        "available_batteries": 87
+    },
+    {
+        "station_id": 7,
+        "latitude": 33.2390259,
+        "longitude": -97.1553095,
+        "available_batteries": 96
+    },
+    {
+        "station_id": 8,
+        "latitude": 33.2390033,
+        "longitude": -97.1553063,
+        "available_batteries": 95
+    },
+    {
+        "station_id": 9,
+        "latitude": 29.7367654,
+        "longitude": -95.402129,
+        "available_batteries": 61
+    },
+    {
+        "station_id": 10,
+        "latitude": 32.7490243,
+        "longitude": -97.3369319,
+        "available_batteries": 56
+    },
+    {
+        "station_id": 11,
+        "latitude": 32.7397126,
+        "longitude": -97.3874998,
+        "available_batteries": 57
+    },
+    {
+        "station_id": 17,
+        "latitude": 30.3339739,
+        "longitude": -97.751338,
+        "available_batteries": 99
+    },
+    {
+        "station_id": 18,
+        "latitude": 30.2644837,
+        "longitude": -97.7718826,
+        "available_batteries": 39
+    },
+    {
+        "station_id": 19,
+        "latitude": 30.2644885,
+        "longitude": -97.7718582,
+        "available_batteries": 64
+    },
+    {
+        "station_id": 20,
+        "latitude": 30.2664566,
+        "longitude": -97.7747395,
+        "available_batteries": 60
+    },
+    {
+        "station_id": 21,
+        "latitude": 30.2665057,
+        "longitude": -97.7747295,
+        "available_batteries": 55
+    },
+    {
+        "station_id": 22,
+        "latitude": 29.6900985,
+        "longitude": -96.5375585,
+        "available_batteries": 93
+    },
+    {
+        "station_id": 23,
+        "latitude": 29.9803797,
+        "longitude": -95.4214896,
+        "available_batteries": 70
+    },
+    {
+        "station_id": 24,
+        "latitude": 32.8096376,
+        "longitude": -96.808698,
+        "available_batteries": 57
+    },
+    {
+        "station_id": 25,
+        "latitude": 32.8359814,
+        "longitude": -96.7680951,
+        "available_batteries": 63
+    },
+    {
+        "station_id": 26,
+        "latitude": 32.9544479,
+        "longitude": -96.819127,
+        "available_batteries": 42
+    },
+    {
+        "station_id": 28,
+        "latitude": 32.9648662,
+        "longitude": -97.0415216,
+        "available_batteries": 46
+    },
+    {
+        "station_id": 29,
+        "latitude": 32.8915979,
+        "longitude": -97.258912,
+        "available_batteries": 99
+    },
+    {
+        "station_id": 30,
+        "latitude": 32.8796804,
+        "longitude": -97.1555779,
+        "available_batteries": 22
+    },
+    {
+        "station_id": 31,
+        "latitude": 32.8607059,
+        "longitude": -97.2891416,
+        "available_batteries": 63
+    },
+    {
+        "station_id": 33,
+        "latitude": 29.6378674,
+        "longitude": -95.5301346,
+        "available_batteries": 32
+    },
+    {
+        "station_id": 34,
+        "latitude": 29.5992247,
+        "longitude": -95.6227359,
+        "available_batteries": 79
+    },
+    {
+        "station_id": 35,
+        "latitude": 29.5831031,
+        "longitude": -95.3872195,
+        "available_batteries": 90
+    },
+    {
+        "station_id": 37,
+        "latitude": 29.5013609,
+        "longitude": -95.1138642,
+        "available_batteries": 65
+    },
+    {
+        "station_id": 38,
+        "latitude": 29.5251999,
+        "longitude": -95.1263556,
+        "available_batteries": 85
+    },
+    {
+        "station_id": 39,
+        "latitude": 29.4249701,
+        "longitude": -95.0612281,
+        "available_batteries": 85
+    },
+    {
+        "station_id": 40,
+        "latitude": 29.2756251,
+        "longitude": -94.8551006,
+        "available_batteries": 40
+    },
+    {
+        "station_id": 41,
+        "latitude": 30.2180886,
+        "longitude": -97.8549768,
+        "available_batteries": 27
+    },
+    {
+        "station_id": 42,
+        "latitude": 30.2650182,
+        "longitude": -97.7692775,
+        "available_batteries": 41
+    },
+    {
+        "station_id": 43,
+        "latitude": 30.2646898,
+        "longitude": -97.7806715,
+        "available_batteries": 92
+    },
+    {
+        "station_id": 44,
+        "latitude": 30.2619309,
+        "longitude": -97.7740762,
+        "available_batteries": 47
+    },
+    {
+        "station_id": 46,
+        "latitude": 30.2281221,
+        "longitude": -97.8109899,
+        "available_batteries": 26
+    },
+    {
+        "station_id": 47,
+        "latitude": 30.2575887,
+        "longitude": -97.7493932,
+        "available_batteries": 96
+    },
+    {
+        "station_id": 48,
+        "latitude": 30.2565271,
+        "longitude": -97.7516891,
+        "available_batteries": 86
+    },
+    {
+        "station_id": 49,
+        "latitude": 30.2520621,
+        "longitude": -97.7470791,
+        "available_batteries": 57
+    },
+    {
+        "station_id": 51,
+        "latitude": 30.2324419,
+        "longitude": -97.8223048,
+        "available_batteries": 38
+    },
+    {
+        "station_id": 52,
+        "latitude": 30.2203091,
+        "longitude": -97.8400602,
+        "available_batteries": 69
+    },
+    {
+        "station_id": 53,
+        "latitude": 30.2194339,
+        "longitude": -97.8417071,
+        "available_batteries": 28
+    },
+    {
+        "station_id": 54,
+        "latitude": 30.1896412,
+        "longitude": -97.8564268,
+        "available_batteries": 75
+    },
+    {
+        "station_id": 55,
+        "latitude": 32.757929,
+        "longitude": -96.995959,
+        "available_batteries": 40
+    },
+    {
+        "station_id": 57,
+        "latitude": 29.7155569,
+        "longitude": -95.3879632,
+        "available_batteries": 72
+    },
+    {
+        "station_id": 59,
+        "latitude": 29.7155435,
+        "longitude": -95.3879123,
+        "available_batteries": 23
+    },
+    {
+        "station_id": 60,
+        "latitude": 29.8278639,
+        "longitude": -97.979638,
+        "available_batteries": 71
+    },
+    {
+        "station_id": 61,
+        "latitude": 30.2200932,
+        "longitude": -97.84143,
+        "available_batteries": 90
+    },
+    {
+        "station_id": 65,
+        "latitude": 29.7729445,
+        "longitude": -95.8378781,
+        "available_batteries": 87
+    },
+    {
+        "station_id": 66,
+        "latitude": 32.0686412,
+        "longitude": -96.4483384,
+        "available_batteries": 23
+    },
+    {
+        "station_id": 67,
+        "latitude": 30.7161723,
+        "longitude": -95.5659479,
+        "available_batteries": 20
+    },
+    {
+        "station_id": 68,
+        "latitude": 28.7669021,
+        "longitude": -96.9789729,
+        "available_batteries": 49
+    },
+    {
+        "station_id": 70,
+        "latitude": 30.302525,
+        "longitude": -97.699007,
+        "available_batteries": 59
+    },
+    {
+        "station_id": 72,
+        "latitude": 33.0727586,
+        "longitude": -97.0866153,
+        "available_batteries": 83
+    },
+    {
+        "station_id": 73,
+        "latitude": 29.5057129,
+        "longitude": -98.5525361,
+        "available_batteries": 78
+    },
+    {
+        "station_id": 75,
+        "latitude": 29.5056943,
+        "longitude": -98.5526199,
+        "available_batteries": 84
+    },
+    {
+        "station_id": 76,
+        "latitude": 29.5056854,
+        "longitude": -98.5526581,
+        "available_batteries": 74
+    },
+    {
+        "station_id": 79,
+        "latitude": 34.4324168,
+        "longitude": -100.218676,
+        "available_batteries": 74
+    },
+    {
+        "station_id": 80,
+        "latitude": 35.1924838,
+        "longitude": -101.9333682,
+        "available_batteries": 58
+    },
+    {
+        "station_id": 81,
+        "latitude": 35.1924612,
+        "longitude": -101.9333695,
+        "available_batteries": 25
+    },
+    {
+        "station_id": 82,
+        "latitude": 35.1925095,
+        "longitude": -101.9333675,
+        "available_batteries": 80
+    },
+    {
+        "station_id": 83,
+        "latitude": 35.1925339,
+        "longitude": -101.9333679,
+        "available_batteries": 69
+    },
+    {
+        "station_id": 85,
+        "latitude": 32.3960097,
+        "longitude": -99.7640522,
+        "available_batteries": 26
+    },
+    {
+        "station_id": 86,
+        "latitude": 32.7546228,
+        "longitude": -97.0827124,
+        "available_batteries": 80
+    },
+    {
+        "station_id": 87,
+        "latitude": 29.6688714,
+        "longitude": -95.4638316,
+        "available_batteries": 83
+    },
+    {
+        "station_id": 88,
+        "latitude": 29.668882,
+        "longitude": -95.4638095,
+        "available_batteries": 93
+    },
+    {
+        "station_id": 89,
+        "latitude": 31.0779154,
+        "longitude": -97.6560523,
+        "available_batteries": 75
+    },
+    {
+        "station_id": 90,
+        "latitude": 27.710993,
+        "longitude": -97.3712609,
+        "available_batteries": 25
+    },
+    {
+        "station_id": 91,
+        "latitude": 29.8671973,
+        "longitude": -95.5378182,
+        "available_batteries": 80
+    },
+    {
+        "station_id": 92,
+        "latitude": 29.7427216,
+        "longitude": -95.4520359,
+        "available_batteries": 63
+    },
+    {
+        "station_id": 93,
+        "latitude": 32.1949563,
+        "longitude": -96.8987847,
+        "available_batteries": 39
+    },
+    {
+        "station_id": 94,
+        "latitude": 30.3632666,
+        "longitude": -97.7935982,
+        "available_batteries": 52
+    },
+    {
+        "station_id": 95,
+        "latitude": 30.2063313,
+        "longitude": -97.8073589,
+        "available_batteries": 46
+    },
+    {
+        "station_id": 96,
+        "latitude": 30.4018579,
+        "longitude": -97.6840378,
+        "available_batteries": 66
+    },
+    {
+        "station_id": 97,
+        "latitude": 30.4018237,
+        "longitude": -97.684082,
+        "available_batteries": 51
+    },
+    {
+        "station_id": 98,
+        "latitude": 34.1599452,
+        "longitude": -99.311906,
+        "available_batteries": 20
+    },
+    {
+        "station_id": 99,
+        "latitude": 32.9434596,
+        "longitude": -97.133857,
+        "available_batteries": 27
+    },
+    {
+        "station_id": 100,
+        "latitude": 30.3633307,
+        "longitude": -97.7935575,
+        "available_batteries": 54
+    },
+    {
+        "station_id": 101,
+        "latitude": 35.2268283,
+        "longitude": -100.2484239,
+        "available_batteries": 30
+    },
+    {
+        "station_id": 102,
+        "latitude": 32.9528648,
+        "longitude": -96.8208701,
+        "available_batteries": 49
+    },
+    {
+        "station_id": 103,
+        "latitude": 32.9539131,
+        "longitude": -96.8213124,
+        "available_batteries": 79
+    },
+    {
+        "station_id": 104,
+        "latitude": 32.9794963,
+        "longitude": -96.770958,
+        "available_batteries": 52
+    },
+    {
+        "station_id": 106,
+        "latitude": 30.1769853,
+        "longitude": -95.4473656,
+        "available_batteries": 85
+    },
+    {
+        "station_id": 107,
+        "latitude": 32.9847974,
+        "longitude": -96.7505929,
+        "available_batteries": 86
+    },
+    {
+        "station_id": 108,
+        "latitude": 32.9847988,
+        "longitude": -96.7505655,
+        "available_batteries": 60
+    },
+    {
+        "station_id": 109,
+        "latitude": 29.6978445,
+        "longitude": -97.1000878,
+        "available_batteries": 25
+    },
+    {
+        "station_id": 110,
+        "latitude": 33.103146,
+        "longitude": -96.8241552,
+        "available_batteries": 98
+    },
+    {
+        "station_id": 111,
+        "latitude": 30.1845405,
+        "longitude": -95.4857993,
+        "available_batteries": 82
+    },
+    {
+        "station_id": 112,
+        "latitude": 30.1845652,
+        "longitude": -95.485773,
+        "available_batteries": 81
+    },
+    {
+        "station_id": 113,
+        "latitude": 29.8960451,
+        "longitude": -95.0639232,
+        "available_batteries": 61
+    },
+    {
+        "station_id": 114,
+        "latitude": 29.9997437,
+        "longitude": -95.1583229,
+        "available_batteries": 44
+    },
+    {
+        "station_id": 115,
+        "latitude": 32.7583823,
+        "longitude": -97.3535362,
+        "available_batteries": 81
+    },
+    {
+        "station_id": 116,
+        "latitude": 29.7846863,
+        "longitude": -95.1104574,
+        "available_batteries": 21
+    },
+    {
+        "station_id": 117,
+        "latitude": 30.178936,
+        "longitude": -96.9070304,
+        "available_batteries": 76
+    },
+    {
+        "station_id": 118,
+        "latitude": 29.8485069,
+        "longitude": -97.9649249,
+        "available_batteries": 43
+    },
+    {
+        "station_id": 119,
+        "latitude": 31.5822545,
+        "longitude": -97.109114,
+        "available_batteries": 51
+    },
+    {
+        "station_id": 120,
+        "latitude": 33.0905769,
+        "longitude": -96.8190314,
+        "available_batteries": 22
+    },
+    {
+        "station_id": 121,
+        "latitude": 32.881094,
+        "longitude": -96.7695048,
+        "available_batteries": 48
+    },
+    {
+        "station_id": 122,
+        "latitude": 29.3449515,
+        "longitude": -98.4524716,
+        "available_batteries": 86
+    },
+    {
+        "station_id": 123,
+        "latitude": 29.4387387,
+        "longitude": -98.4809485,
+        "available_batteries": 51
+    },
+    {
+        "station_id": 124,
+        "latitude": 29.6160219,
+        "longitude": -97.9682604,
+        "available_batteries": 100
+    },
+    {
+        "station_id": 125,
+        "latitude": 29.6159808,
+        "longitude": -97.9682454,
+        "available_batteries": 77
+    },
+    {
+        "station_id": 126,
+        "latitude": 29.6159301,
+        "longitude": -97.9682263,
+        "available_batteries": 45
+    },
+    {
+        "station_id": 127,
+        "latitude": 32.7061567,
+        "longitude": -97.3892347,
+        "available_batteries": 24
+    },
+    {
+        "station_id": 128,
+        "latitude": 29.7257061,
+        "longitude": -95.4267295,
+        "available_batteries": 23
+    },
+    {
+        "station_id": 129,
+        "latitude": 29.749106,
+        "longitude": -95.4619843,
+        "available_batteries": 82
+    },
+    {
+        "station_id": 130,
+        "latitude": 32.9619134,
+        "longitude": -96.8169932,
+        "available_batteries": 48
+    },
+    {
+        "station_id": 131,
+        "latitude": 32.9616073,
+        "longitude": -96.8178515,
+        "available_batteries": 35
+    },
+    {
+        "station_id": 132,
+        "latitude": 32.6794973,
+        "longitude": -97.3987541,
+        "available_batteries": 57
+    },
+    {
+        "station_id": 133,
+        "latitude": 29.7848786,
+        "longitude": -95.4725923,
+        "available_batteries": 99
+    },
+    {
+        "station_id": 135,
+        "latitude": 29.5984943,
+        "longitude": -98.2760683,
+        "available_batteries": 48
+    },
+    {
+        "station_id": 136,
+        "latitude": 32.7002267,
+        "longitude": -97.4126503,
+        "available_batteries": 21
+    },
+    {
+        "station_id": 138,
+        "latitude": 33.4804272,
+        "longitude": -100.875357,
+        "available_batteries": 85
+    },
+    {
+        "station_id": 139,
+        "latitude": 34.4312952,
+        "longitude": -100.226883,
+        "available_batteries": 97
+    },
+    {
+        "station_id": 140,
+        "latitude": 31.4030441,
+        "longitude": -103.4844877,
+        "available_batteries": 61
+    },
+    {
+        "station_id": 141,
+        "latitude": 29.7241515,
+        "longitude": -99.0729347,
+        "available_batteries": 55
+    },
+    {
+        "station_id": 142,
+        "latitude": 29.6663009,
+        "longitude": -98.6332885,
+        "available_batteries": 63
+    },
+    {
+        "station_id": 143,
+        "latitude": 31.4004119,
+        "longitude": -103.486887,
+        "available_batteries": 28
+    },
+    {
+        "station_id": 145,
+        "latitude": 33.1439068,
+        "longitude": -96.6746095,
+        "available_batteries": 49
+    },
+    {
+        "station_id": 146,
+        "latitude": 29.7349923,
+        "longitude": -99.1110633,
+        "available_batteries": 68
+    },
+    {
+        "station_id": 147,
+        "latitude": 29.6083438,
+        "longitude": -98.5984769,
+        "available_batteries": 100
+    },
+    {
+        "station_id": 148,
+        "latitude": 30.3929459,
+        "longitude": -97.7446448,
+        "available_batteries": 36
+    },
+    {
+        "station_id": 149,
+        "latitude": 30.3929862,
+        "longitude": -97.7446207,
+        "available_batteries": 77
+    },
+    {
+        "station_id": 150,
+        "latitude": 30.509264,
+        "longitude": -99.7746822,
+        "available_batteries": 47
+    },
+    {
+        "station_id": 153,
+        "latitude": 29.7751147,
+        "longitude": -98.7275337,
+        "available_batteries": 57
+    },
+    {
+        "station_id": 154,
+        "latitude": 30.4060307,
+        "longitude": -97.6669854,
+        "available_batteries": 89
+    },
+    {
+        "station_id": 155,
+        "latitude": 30.4060276,
+        "longitude": -97.6669561,
+        "available_batteries": 58
+    },
+    {
+        "station_id": 156,
+        "latitude": 30.4060238,
+        "longitude": -97.6669276,
+        "available_batteries": 46
+    },
+    {
+        "station_id": 157,
+        "latitude": 30.1676026,
+        "longitude": -96.3992975,
+        "available_batteries": 33
+    },
+    {
+        "station_id": 158,
+        "latitude": 29.4461923,
+        "longitude": -98.4937024,
+        "available_batteries": 91
+    },
+    {
+        "station_id": 159,
+        "latitude": 30.3007622,
+        "longitude": -97.6998712,
+        "available_batteries": 95
+    },
+    {
+        "station_id": 160,
+        "latitude": 33.151477,
+        "longitude": -96.8603759,
+        "available_batteries": 83
+    },
+    {
+        "station_id": 161,
+        "latitude": 33.1514761,
+        "longitude": -96.860318,
+        "available_batteries": 34
+    },
+    {
+        "station_id": 164,
+        "latitude": 29.5615582,
+        "longitude": -95.6952869,
+        "available_batteries": 43
+    },
+    {
+        "station_id": 165,
+        "latitude": 30.1632884,
+        "longitude": -95.4544917,
+        "available_batteries": 85
+    },
+    {
+        "station_id": 169,
+        "latitude": 27.7878693,
+        "longitude": -97.3951808,
+        "available_batteries": 40
+    },
+    {
+        "station_id": 170,
+        "latitude": 33.1781316,
+        "longitude": -97.1272982,
+        "available_batteries": 44
+    },
+    {
+        "station_id": 171,
+        "latitude": 30.2669347,
+        "longitude": -97.7542682,
+        "available_batteries": 33
+    },
+    {
+        "station_id": 172,
+        "latitude": 30.2668601,
+        "longitude": -97.7541318,
+        "available_batteries": 92
+    },
+    {
+        "station_id": 173,
+        "latitude": 31.8839223,
+        "longitude": -106.5836632,
+        "available_batteries": 100
+    },
+    {
+        "station_id": 174,
+        "latitude": 30.2668439,
+        "longitude": -97.7540729,
+        "available_batteries": 86
+    },
+    {
+        "station_id": 176,
+        "latitude": 30.266948,
+        "longitude": -97.7542619,
+        "available_batteries": 44
+    },
+    {
+        "station_id": 177,
+        "latitude": 30.1921893,
+        "longitude": -98.0645344,
+        "available_batteries": 98
+    },
+    {
+        "station_id": 178,
+        "latitude": 31.9473818,
+        "longitude": -102.141234,
+        "available_batteries": 61
+    },
+    {
+        "station_id": 179,
+        "latitude": 32.4505642,
+        "longitude": -100.392545,
+        "available_batteries": 75
+    },
+    {
+        "station_id": 180,
+        "latitude": 32.3742535,
+        "longitude": -99.0071632,
+        "available_batteries": 56
+    },
+    {
+        "station_id": 181,
+        "latitude": 32.892505,
+        "longitude": -96.4790915,
+        "available_batteries": 66
+    },
+    {
+        "station_id": 182,
+        "latitude": 32.2042793,
+        "longitude": -97.9491482,
+        "available_batteries": 86
+    },
+    {
+        "station_id": 183,
+        "latitude": 32.9903563,
+        "longitude": -96.7505819,
+        "available_batteries": 38
+    },
+    {
+        "station_id": 184,
+        "latitude": 32.9860399,
+        "longitude": -96.7533855,
+        "available_batteries": 95
+    },
+    {
+        "station_id": 185,
+        "latitude": 32.986095,
+        "longitude": -96.7452196,
+        "available_batteries": 65
+    },
+    {
+        "station_id": 186,
+        "latitude": 32.9921048,
+        "longitude": -96.7536913,
+        "available_batteries": 41
+    },
+    {
+        "station_id": 188,
+        "latitude": 31.9338114,
+        "longitude": -97.6976099,
+        "available_batteries": 28
+    },
+    {
+        "station_id": 189,
+        "latitude": 30.5096857,
+        "longitude": -97.6877532,
+        "available_batteries": 51
+    },
+    {
+        "station_id": 190,
+        "latitude": 32.4033474,
+        "longitude": -98.7925166,
+        "available_batteries": 99
+    },
+    {
+        "station_id": 191,
+        "latitude": 31.2596755,
+        "longitude": -95.9851562,
+        "available_batteries": 99
+    },
+    {
+        "station_id": 192,
+        "latitude": 33.7930124,
+        "longitude": -96.5550437,
+        "available_batteries": 49
+    },
+    {
+        "station_id": 194,
+        "latitude": 32.4709082,
+        "longitude": -95.4504735,
+        "available_batteries": 55
+    },
+    {
+        "station_id": 195,
+        "latitude": 30.2112431,
+        "longitude": -97.6672508,
+        "available_batteries": 100
+    },
+    {
+        "station_id": 197,
+        "latitude": 33.1764014,
+        "longitude": -97.0986003,
+        "available_batteries": 20
+    },
+    {
+        "station_id": 199,
+        "latitude": 30.2599736,
+        "longitude": -97.7467752,
+        "available_batteries": 87
+    },
+    {
+        "station_id": 200,
+        "latitude": 30.3022494,
+        "longitude": -97.6978841,
+        "available_batteries": 48
+    }
+]
